@@ -78,7 +78,7 @@ GEM
     chronic (0.3.0)
     closure-compiler (1.1.11)
     daemons (1.1.9)
-    data_objects (0.10.16)
+    data_objects (0.10.17)
       addressable (~> 2.1)
     delayed_job (2.1.4)
       activesupport (~> 3.0)
@@ -159,7 +159,7 @@ GEM
       dm-core
       tzinfo
     do_mysql (0.10.17)
-      data_objects (= 0.10.16)
+      data_objects (= 0.10.17)
     env (0.3.0)
     erubis (2.7.0)
     eventmachine (1.0.8)

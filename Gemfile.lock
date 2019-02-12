@@ -307,6 +307,7 @@ DEPENDENCIES
   dm-do-adapter (~> 1.2.0)
   dm-is-read_only (~> 0.3)!
   dm-migrations (~> 1.2.0)
+  do_mysql (0.10.6)
   dm-mysql-adapter (~> 1.2.0)
   dm-observer (~> 1.2.0)
   dm-pager (~> 1.1.0)
